@@ -21,6 +21,14 @@ public class Calculator2 {
 	
 	public int multiplication(int a, int b){
 		int multiplication =0;
+		
+		return multiplication;
+		
+	}
+	
+	public int division(int a, int b){
+		int multiplication =0;
+		
 		return multiplication;
 		
 	}
