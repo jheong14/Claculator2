@@ -17,6 +17,12 @@ public class Calculator2 {
 		int minus = 0;
 		
 		return minus;
-	} 
+	}
+	
+	public int multiplication(int a, int b){
+		int multiplication =0;
+		return multiplication;
+		
+	}
 
 }
