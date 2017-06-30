@@ -12,5 +12,11 @@ public class Calculator2 {
 		
 		return sum;
 	}
+	
+	public int subTacktion(int a, int b){
+		int minus = 0;
+		
+		return minus;
+	} 
 
 }
